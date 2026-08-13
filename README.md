@@ -1,5 +1,5 @@
-# Shortages of Pediatric Primary Care in Switzerland
-This GitHub repository shares the analysis code used for the manuscript "Shortages of Pediatric Primary Care and Contributing Factors in Switzerland: A nationwide pediatrician survey and cross-sectional workforce analysis".
+# Shortages of Paediatric Primary Care in Switzerland
+This GitHub repository shares the analysis code used for the manuscript "Shortages of paediatric primary care and contributing factors in Switzerland: a nationwide paediatrician survey and crosssectional workforce analysis".
 
 # Analysis scripts
 
